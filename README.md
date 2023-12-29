@@ -1,5 +1,6 @@
 # What Words Should I Learn to Get Better at Solving the New York Times Crossword Puzzle?
 ## Joe Sferra
+##### https://nycdatascience.com/blog/meetup/words-to-learn-to-solve-the-new-york-times-crossword/
 ### Data Analysis Project Using Python
 This analysis is targeted towards people who have done some crossword puzzles but want to take their efforts more seriously and improve their game. While simply practicing doing crossword puzzles consistently is obviously a great way to improve, analysis on a dataset containing all the clues and answers from NYT puzzles between 1993-2021 (https://www.kaggle.com/datasets/darinhawley/new-york-times-crossword-clues-answers-19932021) reveals some trends about the words that commonly feature so that players can study them away from the puzzles and speed up their improvement.
 
